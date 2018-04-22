@@ -1,0 +1,57 @@
+cd ../
+make
+make
+make clean 
+make
+make
+make
+cd ../
+make
+make
+make
+make
+evince QQCoUOD.pdf &
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+evince ../QQCoUOD.pdf &
+make
+cd ../
+make
+make
+make
+make
+make
+make
+cd ../
+make
+make
+make
+make
+make
+make
+make
+[6]) (./QQCoUOmakeD.bbl) [7] (./QQCoUOD.aux)
+make
+Output written on makeQQCoUOD.dvi (7 pages, 80668 bytes).
+make
+make
+make
+cd ../
+make
+evince QQCoUOD.pdf 
+evince QQCoUOD.pdf &
+QQCoUOD.dvi -> QQCoUOD.pdfmake
+make
+make
+aspell -c Source/extension_upper_bounds.tex
+./Binaries/days_counter 
+./Binaries/days_counter diary.md
