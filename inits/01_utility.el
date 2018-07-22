@@ -80,6 +80,11 @@
 (load-theme 'misterioso t)
 
 
+;; font
+(add-to-list 'default-frame-alist '(font . "Fira Code Retina"))
+(set-fontset-font t 'japanese-jisx0208 "TakaoGothic")
+
+
 ;; GC を減らして軽くする
 (setq gc-cons-threshold (* 10 gc-cons-threshold))
 

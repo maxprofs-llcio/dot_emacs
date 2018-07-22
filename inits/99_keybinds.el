@@ -12,9 +12,9 @@
 
 
 ;; C-x o -> C-t
-(global-set-key (kbd "C-t") 'other-window)
+;;(global-set-key (kbd "C-t") 'other-window)
 
 
 
-(provide '00_keybinds)
+(provide '99_keybinds)
 ;;; 99_keybinds.el ends here

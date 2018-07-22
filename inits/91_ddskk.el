@@ -35,8 +35,8 @@
 (setq skk-kuten-touten-alist
       '(
         (jp . ("。" . "、"))
-        (en-jp . ("．" . "，"))
-        (en . (". " . ", "))
+        (en-jp . ("。" . "、"))
+        (en . ("。" . "、"))
         ))
 (setq-default skk-kutouten-type 'en)
 
@@ -56,5 +56,5 @@
 (setq skk-henkan-strict-okuri-precedence t)
 
 
-(provide '13_ddskk)
+(provide '91_ddskk)
 ;;; 91_ddskk.el ends here

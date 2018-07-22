@@ -1,5 +1,13 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/ken1/OneDrive/Document/Learn/PrepSA/prepSA.md" . 4850)
+(("/home/ken1/OneDrive/Document/Learn/PrepSA/prepSA.md" . 5185)
+ ("/home/ken1/dot_emacs/inits/"
+  (dired-filename . "/home/ken1/dot_emacs/inits/17_multiple-cursors.el"))
+ ("/home/ken1/dot_emacs/inits/17_multiple-cursors.el" . 342)
+ ("/home/ken1/.emacs.d/elpa/smartrep-20150508.1930/smartrep-autoloads.el" . 252)
+ ("/home/ken1/dot_emacs/custom-file.el" . 817)
+ ("/home/ken1/dot_emacs/inits/01_utility.el" . 1326)
+ ("/home/ken1/dot_emacs/inits/91_ddskk.el" . 984)
+ ("/home/ken1/dot_emacs/inits/99_keybinds.el" . 293)
  ("/home/ken1/OneDrive/Document/"
   (dired-filename . "/home/ken1/OneDrive/Document/etc"))
  ("/home/ken1/OneDrive/Document/etc/"
@@ -10,8 +18,6 @@
  ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC050D_XorSum.cpp" . 1530)
  ("/home/ken1/dot_emacs/"
   (dired-filename . "/home/ken1/dot_emacs/inits"))
- ("/home/ken1/dot_emacs/inits/"
-  (dired-filename . "/home/ken1/dot_emacs/inits/99_rainbow-delimiters.el"))
  ("/home/ken1/.emacs.d/elpa/multiple-cursors-20180615.518/multiple-cursors-autoloads.el" . 10448)
  ("/home/ken1/OneDrive/"
   (dired-filename . "/home/ken1/OneDrive/Document"))
@@ -33,7 +39,6 @@
  ("/home/ken1/OneDrive/Program/etc/JavaEtc/Test.java" . 198)
  ("/home/ken1/OneDrive/Program/etc/forAsterisk/main.java" . 1542)
  ("/home/ken1/.gitconfig" . 57)
- ("/home/ken1/dot_emacs/custom-file.el" . 388)
  ("/home/ken1/OneDrive/Document/MemoryAndRecord/important.md" . 3227)
  ("/home/ken1/OneDrive/Document/MemoryAndRecord/"
   (dired-filename . "/home/ken1/OneDrive/Document/MemoryAndRecord/better_programmer.md"))
