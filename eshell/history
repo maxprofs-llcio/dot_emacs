@@ -55,3 +55,29 @@ make
 aspell -c Source/extension_upper_bounds.tex
 ./Binaries/days_counter 
 ./Binaries/days_counter diary.md
+fish
+l
+ls
+l
+e
+emacs
+figh
+fish
+cd OneDrive/Program/WebServices/AtCoder/
+ll
+ls
+cd AtCoderBeginnersSection/
+ls
+cd src/
+ls
+fish
+ls
+cp 99_rainbow-delimiters.el 05_multiple-cursors.el
+ls
+ls
+rm #*#
+ls
+ls
+rm *#
+ls
+ls
