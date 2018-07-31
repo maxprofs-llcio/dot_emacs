@@ -11,8 +11,10 @@
 (global-set-key [f12] 'eval-buffer)
 
 
+(global-set-key (kbd "H-i") (kbd "C-i"))
+
 ;; C-x o -> C-t
-;;(global-set-key (kbd "C-t") 'other-window)
+;;(global-set-key (kbd ""C-t") 'other-window)
 
 
 
