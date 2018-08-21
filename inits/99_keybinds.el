@@ -13,6 +13,11 @@
 
 (global-set-key (kbd "H-i") (kbd "C-i"))
 
+
+(global-set-key [C-down-mouse-1] nil)
+
+
+
 ;; C-x o -> C-t
 ;;(global-set-key (kbd ""C-t") 'other-window)
 

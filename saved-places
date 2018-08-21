@@ -1,27 +1,53 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/ken1/OneDrive/Document/Learn/PrepSA/prepSA.md" . 5185)
+(("/home/ken1/dot_emacs/inits/99_keybinds.el" . 249)
+ ("/home/ken1/OneDrive/Document/Learn/PrepSA/prepSA.md" . 14336)
+ ("/home/ken1/dot_emacs/inits/01_utility.el" . 1328)
  ("/home/ken1/dot_emacs/inits/"
-  (dired-filename . "/home/ken1/dot_emacs/inits/17_multiple-cursors.el"))
+  (dired-filename . "/home/ken1/dot_emacs/inits/99_keybinds.el"))
+ ("/home/ken1/OneDrive/Document/MemoryAndRecord/diary.md" . 173259)
+ ("/home/ken1/OneDrive/Document/MemoryAndRecord/better_programmer.md" . 444)
+ ("/home/ken1/OneDrive/Document/MemoryAndRecord/"
+  (dired-filename . "/home/ken1/OneDrive/Document/MemoryAndRecord/diary.md"))
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC044C_TakAndCards.cpp" . 615)
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/common/graph.hpp" . 1247)
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC075C_Bridge.cpp" . 157)
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC054C_One-strokePath.cpp" . 386)
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/common/"
+  (dired-filename . "/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/common/graph.hpp"))
+ ("/home/ken1/Documents/BUFFALO_rooter_config.md" . 41)
+ ("/home/ken1/OneDrive/Document/事務関係/サンエムシステム/Articles/email_magazine_kawano.txt" . 1416)
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC087B_Coins.cpp" . 1445)
+ ("/home/ken1/.emacs.d/inits/99_keybinds.el" . 220)
+ ("/home/ken1/.emacs.d/inits/01_utility.el" . 1375)
+ ("/home/ken1/.emacs.d/inits/"
+  (dired-filename . "/home/ken1/.emacs.d/inits/99_keybinds.el"))
+ ("/home/ken1/.skk-jisyo" . 7203)
+ ("/home/ken1/.skk-study" . 59338)
+ ("/home/ken1/"
+  (dired-filename . "/home/ken1/.skk-jisyo"))
+ ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC050D_XorSum.cpp" . 329)
+ ("/etc/fish/config.fish" . 1319)
+ ("/usr/share/fish/config.fish" . 8994)
+ ("/home/ken1/OneDrive/Program/MyProducts/ExcelVBA/duplicateParameterSheet/duplicateParameterSheet.bas" . 1991)
+ ("/home/ken1/dot_emacs/inits/90_custom.el" . 284)
+ ("/home/ken1/.emacs.d/elpa/vbasense-20140221.1553/vbasense-autoloads.el" . 1965)
+ ("/home/ken1/.emacs.d/elpa/auto-complete-20170124.1845/auto-complete-autoloads.el" . 1735)
+ ("/home/ken1/.emacs.d/elpa/log4e-20170401.604/log4e-autoloads.el" . 571)
+ ("/home/ken1/.emacs.d/elpa/yaxception-20150105.652/yaxception-autoloads.el" . 255)
+ ("/home/ken1/dot_emacs/custom-file.el" . 826)
  ("/home/ken1/dot_emacs/inits/17_multiple-cursors.el" . 342)
  ("/home/ken1/.emacs.d/elpa/smartrep-20150508.1930/smartrep-autoloads.el" . 252)
- ("/home/ken1/dot_emacs/custom-file.el" . 817)
- ("/home/ken1/dot_emacs/inits/01_utility.el" . 1326)
  ("/home/ken1/dot_emacs/inits/91_ddskk.el" . 984)
- ("/home/ken1/dot_emacs/inits/99_keybinds.el" . 293)
  ("/home/ken1/OneDrive/Document/"
   (dired-filename . "/home/ken1/OneDrive/Document/etc"))
  ("/home/ken1/OneDrive/Document/etc/"
   (dired-filename . "/home/ken1/OneDrive/Document/etc/CC_errata.xlsx"))
- ("/home/ken1/OneDrive/Document/MemoryAndRecord/diary.md" . 160856)
- ("/home/ken1/.skk-study" . 1718)
  ("/usr/share/emacs/25.2/etc/NEWS" . 656)
- ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC050D_XorSum.cpp" . 1530)
  ("/home/ken1/dot_emacs/"
   (dired-filename . "/home/ken1/dot_emacs/inits"))
  ("/home/ken1/.emacs.d/elpa/multiple-cursors-20180615.518/multiple-cursors-autoloads.el" . 10448)
  ("/home/ken1/OneDrive/"
   (dired-filename . "/home/ken1/OneDrive/Document"))
- ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC044C_TakAndCards.cpp" . 615)
  ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC086C_Traveling.cpp" . 447)
  ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC070C_MultipleClocks.cpp" . 684)
  ("/home/ken1/bin/load_xkbmap.sh" . 135)
@@ -31,7 +57,6 @@
  ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC007C_BreadthFirstSearch.cpp" . 224)
  ("/etc/update-manager/release-upgrades" . 832)
  ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC049C_Daydream.cpp" . 2872)
- ("/home/ken1/OneDrive/Program/ReversePolishNotation/src/jp/co/axiz/parser/MathExpParser.java" . 967)
  ("/home/ken1/OneDrive/Program/WebServices/AtCoder/AtCoderBeginnersSection/src/ABC085C_Otoshidama.cpp" . 1336)
  ("/home/ken1/OneDrive/Program/etc/HanoiTower/hanoi.cpp" . 495)
  ("/home/ken1/OneDrive/Program/etc/RotateArray/rotate1.cpp" . 926)
@@ -40,15 +65,11 @@
  ("/home/ken1/OneDrive/Program/etc/forAsterisk/main.java" . 1542)
  ("/home/ken1/.gitconfig" . 57)
  ("/home/ken1/OneDrive/Document/MemoryAndRecord/important.md" . 3227)
- ("/home/ken1/OneDrive/Document/MemoryAndRecord/"
-  (dired-filename . "/home/ken1/OneDrive/Document/MemoryAndRecord/better_programmer.md"))
- ("/etc/fish/config.fish" . 1047)
  ("/home/ken1/dot_vim/_vimrc" . 918)
  ("/home/ken1/.vimrc" . 342)
  ("/usr/share/fish/functions/seq.fish" . 277)
  ("/usr/share/fish/functions/math.fish" . 1766)
  ("/usr/share/fish/functions/history.fish" . 2790)
- ("/home/ken1/OneDrive/Document/MemoryAndRecord/better_programmer.md" . 444)
  ("/home/ken1/.ssh/id_rsa.pub" . 406)
  ("/home/ken1/.emacs.d/init.el" . 396)
  ("/home/ken1/.emacs.d/elpa/fish-mode-20180306.818/fish-mode-autoloads.el" . 661)
@@ -58,8 +79,6 @@
  ("/home/ken1/.emacs.d/elpa/emmet-mode-20161113.2158/emmet-mode-autoloads.el" . 1587)
  ("/home/ken1/.emacs.d/elpa/smooth-scroll-20130321.2114/smooth-scroll-autoloads.el" . 269)
  ("/home/ken1/.emacs.d/elpa/flex-autopair-20120809.518/flex-autopair-autoloads.el" . 1644)
- ("/home/ken1/.emacs.d/inits/"
-  (dired-filename . "/home/ken1/.emacs.d/inits/01_utility.el"))
  ("/usr/share/X11/xkb/symbols/ba" . 708)
  ("/usr/share/X11/xkb/symbols/inet" . 4622)
  ("/usr/share/X11/xkb/rules/evdev" . 8670)
@@ -94,8 +113,6 @@
   (dired-filename . "/home/ken1/.pki/nssdb"))
  ("/home/ken1/Downloads/"
   (dired-filename . "/home/ken1/Downloads/.."))
- ("/home/ken1/"
-  (dired-filename . "/home/ken1/OneDrive"))
  ("/home/ken1/OneDrive/Document/Study/"
   (dired-filename . "/home/ken1/OneDrive/Document/Study/QuantumInfomation"))
  ("/home/ken1/OneDrive/Document/Study/QuantumInfomation/"
