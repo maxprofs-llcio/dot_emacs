@@ -15,7 +15,7 @@
 
 
 (global-set-key [C-down-mouse-1] nil)
-
+(global-set-key [C-down-mouse-3] nil)
 
 
 ;; C-x o -> C-t
