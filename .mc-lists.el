@@ -5,6 +5,7 @@
       '(
         c-electric-semi&comma
         c-indent-line-or-region
+        comment-dwim
         electric-newline-and-maybe-indent
         hungry-delete-backward
         hungry-delete-forward

@@ -90,17 +90,21 @@
 
 
 ;; ログの記録行数を増やす
-(setq message-log-max 10000)
+(setq message-log-max 100000)
 
 
 ;; 履歴をたくさん保存する
-(setq history-length 1000)
+(setq history-length 100000)
 
 
 ;; メニューバーとツールバーとスクロールバーを消す
 (menu-bar-mode -1)
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
+
+
+;; ビープ音を消す
+(setq visible-bell t)
 
 
 (provide '01_utility)
