@@ -107,5 +107,16 @@
 (setq visible-bell t)
 
 
+;; 定義箇所までジャンプ
+(setq dumb-jump-mode t)
+
+
+;; git-gutter+
+(global-git-gutter+-mode 1)
+
+;; modify された箇所で実行すると、diff を inline で見ることができる
+(global-set-key (kbd "C-x C-v") 'git-gutter+-show-hunk-inline-at-point)
+
+
 (provide '01_utility)
 ;;; 01_utility.el ends here
