@@ -81,3 +81,29 @@ ls
 rm *#
 ls
 ls
+/usr/bin/env
+shell
+ps
+exit
+ls
+ll
+ls
+bash
+su - ansible
+shell
+su ansible
+su: Authentication failure
+su ansible
+ps
+git log
+git log --onelin
+git log --oneline
+tree
+python
+python
+pwd
+python
+python
+python
+python
+python
