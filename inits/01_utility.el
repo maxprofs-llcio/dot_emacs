@@ -29,6 +29,7 @@
 
 
 ;; ファイルを開いた位置を保存する
+(require 'saveplace)
 (save-place-mode 1)
 (setq save-place-file "~/.emacs.d/saved-places")
 
@@ -46,7 +47,7 @@
 (set-default-coding-systems 'utf-8-unix)
 (set-terminal-coding-system 'utf-8-unix)
 (setq default-file-name-coding-system 'utf-8)
-(setq default-process-codin-system '(utf-8 . utf-8))
+(setq default-process-coding-system '(utf-8 . utf-8))
 (prefer-coding-system 'utf-8-unix)
 
 
@@ -65,13 +66,15 @@
 
 
 ;; 行番号を表示
-(global-linum-mode)
-(setq linum-format "%5d ")
+(require 'linum)
+(global-linum-mode t)
+(setq linum-format "%5d | ")
 (line-number-mode t)
 (column-number-mode t)
 
 
 ;; 現在行を強調
+(require 'hl-line)
 (setq hl-line-face 'underlin)
 (global-hl-line-mode t)
 

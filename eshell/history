@@ -107,3 +107,17 @@ python
 python
 python
 python
+scp bss.py respaker@192.168.100.115:/home/respeaker/work/BlindSourceSeparation
+scp bss.py respeaker@192.168.100.115:/home/respeaker/work/BlindSourceSeparation
+scp bss.py respeaker@192.168.100.115:/home/respeaker/work/BlindSourceSeparation
+scp bss.py respeaker@192.168.100.115:/home/respeaker/work/BlindSourceSeparation
+ls
+python
+s
+ls
+python
+date +%Y%d%m
+date
+date +%Y%d%m
+man date
+bash

@@ -7,6 +7,7 @@
         c-indent-line-or-region
         comment-dwim
         electric-newline-and-maybe-indent
+        forward-sexp
         hungry-delete-backward
         hungry-delete-forward
         kill-region
