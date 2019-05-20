@@ -34,6 +34,8 @@
      string)))
 (global-set-key (kbd "C-c t") 'google-translate-enja-or-jaen)
 
+;; Fisx error of "Failed to search TKK"
+(defun google-translate--search-tkk () "Search TKK." (list 430675 2721866130))
 
 (provide '15_google-translate)
 ;;; 15_google-translate.el ends here

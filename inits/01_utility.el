@@ -86,6 +86,7 @@
 ;; font
 (add-to-list 'default-frame-alist '(font . "Fira Code Retina"))
 (set-fontset-font t 'japanese-jisx0208 "TakaoGothic")
+;;(add-to-list 'face-font-rescale-alist '(".*Takao.*" . 0.87))
 
 
 ;; GC を減らして軽くする

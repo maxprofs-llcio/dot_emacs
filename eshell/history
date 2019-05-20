@@ -121,3 +121,4 @@ date
 date +%Y%d%m
 man date
 bash
+cat /etc/default/keyboard 
